@@ -24,6 +24,6 @@ void Update(){
 - [ ] 2 Лаба
 - [ ] 3 Лаба
 
-[Страница](https://github.com/Mefix69/laba1)
+[Страница](https://github.com/VadimHoperskov/laba1)
 > [!IMPORTANT]
 > Выделенный текст.
